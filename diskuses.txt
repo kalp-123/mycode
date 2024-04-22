@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#execute disk uses command
+
+du -h | head -5
+
+#display file sysytem partition
+
+df -T 
